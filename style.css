@@ -1,0 +1,23 @@
+body{
+    color:darkblue;
+    background:cyan;
+    
+    
+    
+    }
+    .heading{
+    width:80%;
+    font-size:24px;
+    
+    
+    
+    }
+    .name_of_objects{
+    color: darkorchid;
+    
+    }
+    #camera{
+    border:2px dashed  deepskyblue ;
+    width: 350px;
+    height: 300px;
+    }
